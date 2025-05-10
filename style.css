@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding:10px;
+    border-radius: 10px;
+}
+.body{
+    text-align: center;
+}
+.body__img{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    margin: 10px;
+}
+.image{
+    height: 250px;
+    width: 250px;
+}
+.body__contact{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding:10px;
+    border-radius: 10px;
+}
+.contact__button{
+    color: red;
+    background-color:lightblue;
+    display: inline-block;
+    width:300px;
+}
+
+
